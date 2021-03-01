@@ -7,7 +7,7 @@
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "NPM Alexey Lysenko <detoner777@gmail.com>",
-  "license": "ISC",
+  "license": "MIT",
   "devDependencies": {
     "eslint": "^7.19.0"
   },
@@ -20,5 +20,14 @@
   "repository": {
     "type": "git",
     "url": "https://github.com/detoner777/unique-random-docs"
-  }
+  },
+  "keywords": [
+    "node",
+    "mongoDB",
+    "mongoose",
+    "random",
+    "unique",
+    "collections",
+    "docs"
+  ]
 }

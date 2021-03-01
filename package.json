@@ -1,6 +1,6 @@
 {
   "name": "unique-random-docs",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "Returns random, unique, and specified number of documents from its colection",
   "main": "index.js",
   "scripts": {
